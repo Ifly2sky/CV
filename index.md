@@ -29,7 +29,7 @@ Harrastuksiin kuuluu kilpailullinen pelaaminen ja koodaus. Koulutehtävien lisä
 - php hyvä <br />
 - javascript hyvä <br />
 - python hyvä <br />
-- WordPress tyydyttävä <br />
+- WordPress tyydyttävä
 ## Kielitaito <br />
 Suomi - äidinkieli <br />
 Englanti - natiivi <br />

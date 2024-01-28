@@ -7,7 +7,7 @@ _Tieto- ja viestintätekniikan perustehtävät_ <br />
 - käyttöliittymän asetusten muuttaminen asiakkaiden toiveiden mukaan <br />
 - järjestelmän tuottavien hälytysten käsittely
 
-### Koulutus <br />
+## Koulutus <br />
 2022 - <br />
 Gradia Ammattiopisto - Tieto- ja viestintätekniikka <br />
 Kaksoistutkinto <br />
@@ -18,9 +18,9 @@ Puhelin: 044 9721888 <br />
 Sijainti: Jyväskylä <br />
 Sähköposti: Tinhau24@gmail.com <br />
 Harrastuksiin kuuluu kilpailullinen pelaaminen ja koodaus. Koulutehtävien lisäksi haastan itseäni muilla ohjelmistoprojekteilla ja toivon haastavia työtehtäviä työharjoittelussa. <br />
-## Käytettävissä <br />
+### Käytettävissä <br />
 8.4.2024 - 31.7.2024 <br />
-## Pätevyydet ja osaaminen <br />
+### Pätevyydet ja osaaminen <br />
 - MS Exel hyvä <br />
 - MS Word hyvä <br />
 - MS Powerpoint hyvä <br />
@@ -32,11 +32,11 @@ Harrastuksiin kuuluu kilpailullinen pelaaminen ja koodaus. Koulutehtävien lisä
 - python hyvä <br />
 - WordPress tyydyttävä
 
-## Kielitaito <br />
+### Kielitaito <br />
 Suomi - äidinkieli <br />
 Englanti - natiivi <br />
 Ruotsi - tyydytävä <br />
 Saksa - perusteet <br />
-## Muu Kokemus <br />
+### Muu Kokemus <br />
 2016-2021 <br />
 1-2 Jyväskylän Yliopiston (lasten yliopisto) ja JAMK:n järjestämiä ohjelmoinnin kesäleirejä vuodessa.

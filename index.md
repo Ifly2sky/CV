@@ -5,7 +5,7 @@ _31.10.2022 - 4.11.2022_ <br />
 _Tieto- ja viestintätekniikan perustehtävät_ <br />
 - päätelaitteiden ohjelmistojen päivittäminen ja konfigurointi ssh yhteyden kautta <br />
 - käyttöliittymän asetusten muuttaminen asiakkaiden toiveiden mukaan <br />
-- järjestelmän tuottavien hälytysten käsittely <br />
+- järjestelmän tuottavien hälytysten käsittely
 ### Koulutus <br />
 2022 - <br />
 Gradia Ammattiopisto - Tieto- ja viestintätekniikka <br />
@@ -36,5 +36,5 @@ Englanti - natiivi <br />
 Ruotsi - tyydytävä <br />
 Saksa - perusteet <br />
 ## Muu Kokemus <br />
-2016-2021
+2016-2021 <br />
 1-2 Jyväskylän Yliopiston (lasten yliopisto) ja JAMK:n järjestämiä ohjelmoinnin kesäleirejä vuodessa.

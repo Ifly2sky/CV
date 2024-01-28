@@ -8,7 +8,7 @@ _Tieto- ja viestintätekniikan perustehtävät_ <br />
 - järjestelmän tuottavien hälytysten käsittely <br />
 <br />
 ### Koulutus <br />
-Alk. 2022 <br />
+2022 - <br />
 Gradia Ammattiopisto - Tieto- ja viestintätekniikka <br />
 Kaksoistutkinto <br />
 ## Henkilötiedot
@@ -36,3 +36,5 @@ Englanti - natiivi <br />
 Ruotsi - tyydytävä <br />
 Saksa - perusteet <br />
 ## Muu Kokemus <br />
+2016-2021
+1-2 Jyväskylän Yliopiston (lasten yliopisto) ja JAMK:n järjestämiä ohjelmoinnin kesäleirejä vuodessa.

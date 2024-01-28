@@ -8,7 +8,7 @@ _Tieto- ja viestintätekniikan perustehtävät_ <br />
 - järjestelmän tuottavien hälytysten käsittely <br />
 <br />
 ### Koulutus <br />
-2022 - <br />
+Alk. 2022 <br />
 Gradia Ammattiopisto - Tieto- ja viestintätekniikka <br />
 Kaksoistutkinto <br />
 ## Henkilötiedot

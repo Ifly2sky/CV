@@ -6,11 +6,12 @@ _Tieto- ja viestintätekniikan perustehtävät_ <br />
 - päätelaitteiden ohjelmistojen päivittäminen ja konfigurointi ssh yhteyden kautta <br />
 - käyttöliittymän asetusten muuttaminen asiakkaiden toiveiden mukaan <br />
 - järjestelmän tuottavien hälytysten käsittely
+
 ### Koulutus <br />
 2022 - <br />
 Gradia Ammattiopisto - Tieto- ja viestintätekniikka <br />
 Kaksoistutkinto <br />
-## Henkilötiedot
+## Henkilötiedot <br />
 Etunimi: Tino <br />
 Sukunimi: Hautanen <br />
 Puhelin: 044 9721888 <br />
@@ -30,6 +31,7 @@ Harrastuksiin kuuluu kilpailullinen pelaaminen ja koodaus. Koulutehtävien lisä
 - javascript hyvä <br />
 - python hyvä <br />
 - WordPress tyydyttävä
+
 ## Kielitaito <br />
 Suomi - äidinkieli <br />
 Englanti - natiivi <br />

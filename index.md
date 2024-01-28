@@ -6,7 +6,6 @@ _Tieto- ja viestintätekniikan perustehtävät_ <br />
 - päätelaitteiden ohjelmistojen päivittäminen ja konfigurointi ssh yhteyden kautta <br />
 - käyttöliittymän asetusten muuttaminen asiakkaiden toiveiden mukaan <br />
 - järjestelmän tuottavien hälytysten käsittely <br />
-<br />
 ### Koulutus <br />
 2022 - <br />
 Gradia Ammattiopisto - Tieto- ja viestintätekniikka <br />
@@ -17,6 +16,7 @@ Sukunimi: Hautanen <br />
 Puhelin: 044 9721888 <br />
 Sijainti: Jyväskylä <br />
 Sähköposti: Tinhau24@gmail.com <br />
+Harrastuksiin kuuluu kilpailullinen pelaaminen ja koodaus. Koulutehtävien lisäksi haastan itseäni muilla ohjelmistoprojekteilla ja toivon haastavia työtehtäviä työharjoittelussa. <br />
 ## Käytettävissä <br />
 8.4.2024 - 31.7.2024 <br />
 ## Pätevyydet ja osaaminen <br />

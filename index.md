@@ -17,3 +17,22 @@ Sukunimi: Hautanen <br />
 Puhelin: 044 9721888 <br />
 Sijainti: Jyväskylä <br />
 Sähköposti: Tinhau24@gmail.com <br />
+## Käytettävissä <br />
+8.4.2024 - 31.7.2024 <br />
+## Pätevyydet ja osaaminen <br />
+- MS Exel hyvä <br />
+- MS Word hyvä <br />
+- MS Powerpoint hyvä <br />
+- C# Erinomainen <br />
+- C++ hyvä <br />
+- Html tyydyttävä <br />
+- php hyvä <br />
+- javascript hyvä <br />
+- python hyvä <br />
+- WordPress tyydyttävä <br />
+## Kielitaito <br />
+Suomi - äidinkieli <br />
+Englanti - natiivi <br />
+Ruotsi - tyydytävä <br />
+Saksa - perusteet <br />
+## Muu Kokemus <br />

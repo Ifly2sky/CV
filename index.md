@@ -1,6 +1,8 @@
-Tino Hautanen
-24.9.2020
-puh. 044 9721888
-Opiskelija gradian tieto- ja viestintätekniikan alalla, käynyt peruskoulun
-Työskennellyt Kaupassa täyttämässä hyllyjä ja C2 smartlight:illa top jakson aikana
-kielitaidot. äidinkieli suomi, natiivi englanti, kohtalainen ruotsi ja erittäin heikko saksa
+##Työkokemus
+
+###C2 SmartLight OY
+31.10.2022 - 4.11.2022
+_Tieto- ja viestintätekniikan perustehtävät_
+päätelaitteiden ohjelmistojen päivittäminen ja konfiguroiminen
+käyttöliittymän asetusten muuttaminen asiakkaiden toiveiden mukaan
+järjestelmän tuottavien hälytysten käsittely
